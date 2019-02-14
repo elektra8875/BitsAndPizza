@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/41a5b1db42c850c2525425fce5e721da/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dae397ee5b5ea0d816544774d14d70ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d073b8d0413284dcf1bdd84fab0edb2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/fb9c88e946e73b90d1c8bd1e076589f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57208ed5da4b6c9aaf7bebd8b98fe7c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ce7fffe27ac1577f8438ba7862b55e04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ca5af8783f87935c3d8c1c9f65e91522/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5922f1328bfed6f83be065a5235e7f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad1d255c2c789d99d4b5698ab75ace5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5896cab47e8ce62bb1d54995d759ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2c8720c4763934246ca3cbd09aa95984/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/377d9c736d7d47160851c5146f86f9e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3e96b6ba3b25c0d4b541498d8b42a798/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2503ffeefd7ee17685ae6538b27ca9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf25e408db9efffad6b0e96de3a907bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/441cfa5efa050f649385f42c0a9a4986/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/949ef71b438b4a532adf9ab437efe650/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e6119d8e7495ad49c57b9af4ff5e0529/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/90e5641d529f73977768996a5e5aed01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a00e53b9232342cf1e3fb30ca04b1e40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b0c5ef3619a4c31a31c015013cc73445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7de976459180bcfd32b8cde6774f2967/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af51de74ab2d590e27623fda7b5de13a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61ef4ee4e9ee0250776f2355df605bb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b296c4bff276219432bfda4a42e9d26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ba88096671a29c3e3b8c5c1a93329d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/88291051611255dda57f5eb820859e48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de0a1913934507e533b2d4dee2617d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4e6992d22bb29e16f286b35c46f4e9a7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2f651ff0410c3618bce6d0077c5f748f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b089b88ef8f0957ad423344a50576d7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbf80e762f52f6fcfda5f2746be2868b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:5:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/41a5b1db42c850c2525425fce5e721da/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/41a5b1db42c850c2525425fce5e721da/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d073b8d0413284dcf1bdd84fab0edb2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d073b8d0413284dcf1bdd84fab0edb2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7de976459180bcfd32b8cde6774f2967/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7de976459180bcfd32b8cde6774f2967/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.cindylou.bitsandpizzas.MainActivity
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.cindylou.bitsandpizzas.OrderActivity
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:19:9-26:20
+	android:parentActivityName
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:22:13-55
+	android:label
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:20:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:23:13-25:49
+	android:value
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:25:17-46
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:24:17-63
+activity#com.example.cindylou.bitsandpizzas.PizzaDetailActivity
+ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:27:9-29:20
+	android:parentActivityName
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:28:13-55
+	android:name
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml:27:19-54
+uses-sdk
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/41a5b1db42c850c2525425fce5e721da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/41a5b1db42c850c2525425fce5e721da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dae397ee5b5ea0d816544774d14d70ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/dae397ee5b5ea0d816544774d14d70ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d073b8d0413284dcf1bdd84fab0edb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8d073b8d0413284dcf1bdd84fab0edb2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/fb9c88e946e73b90d1c8bd1e076589f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/fb9c88e946e73b90d1c8bd1e076589f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57208ed5da4b6c9aaf7bebd8b98fe7c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/57208ed5da4b6c9aaf7bebd8b98fe7c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ce7fffe27ac1577f8438ba7862b55e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ce7fffe27ac1577f8438ba7862b55e04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ca5af8783f87935c3d8c1c9f65e91522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/ca5af8783f87935c3d8c1c9f65e91522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5922f1328bfed6f83be065a5235e7f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5922f1328bfed6f83be065a5235e7f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad1d255c2c789d99d4b5698ab75ace5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/ad1d255c2c789d99d4b5698ab75ace5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5896cab47e8ce62bb1d54995d759ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/aa5896cab47e8ce62bb1d54995d759ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2c8720c4763934246ca3cbd09aa95984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/2c8720c4763934246ca3cbd09aa95984/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/377d9c736d7d47160851c5146f86f9e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/377d9c736d7d47160851c5146f86f9e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3e96b6ba3b25c0d4b541498d8b42a798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/3e96b6ba3b25c0d4b541498d8b42a798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2503ffeefd7ee17685ae6538b27ca9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/2503ffeefd7ee17685ae6538b27ca9d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf25e408db9efffad6b0e96de3a907bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/bf25e408db9efffad6b0e96de3a907bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/441cfa5efa050f649385f42c0a9a4986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/441cfa5efa050f649385f42c0a9a4986/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/949ef71b438b4a532adf9ab437efe650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/949ef71b438b4a532adf9ab437efe650/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e6119d8e7495ad49c57b9af4ff5e0529/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e6119d8e7495ad49c57b9af4ff5e0529/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/90e5641d529f73977768996a5e5aed01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/90e5641d529f73977768996a5e5aed01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a00e53b9232342cf1e3fb30ca04b1e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/a00e53b9232342cf1e3fb30ca04b1e40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b0c5ef3619a4c31a31c015013cc73445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b0c5ef3619a4c31a31c015013cc73445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/5515c0000419282d78d909debbcb6f1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7de976459180bcfd32b8cde6774f2967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/7de976459180bcfd32b8cde6774f2967/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af51de74ab2d590e27623fda7b5de13a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/af51de74ab2d590e27623fda7b5de13a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61ef4ee4e9ee0250776f2355df605bb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/61ef4ee4e9ee0250776f2355df605bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b296c4bff276219432bfda4a42e9d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8b296c4bff276219432bfda4a42e9d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ba88096671a29c3e3b8c5c1a93329d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3ba88096671a29c3e3b8c5c1a93329d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/88291051611255dda57f5eb820859e48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/88291051611255dda57f5eb820859e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de0a1913934507e533b2d4dee2617d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6de0a1913934507e533b2d4dee2617d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4e6992d22bb29e16f286b35c46f4e9a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4e6992d22bb29e16f286b35c46f4e9a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2f651ff0410c3618bce6d0077c5f748f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2f651ff0410c3618bce6d0077c5f748f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b089b88ef8f0957ad423344a50576d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/4b089b88ef8f0957ad423344a50576d7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbf80e762f52f6fcfda5f2746be2868b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/cindylou/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fbf80e762f52f6fcfda5f2746be2868b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		ADDED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/cindylou/AndroidStudioProjects/BitsandPizzas/app/src/main/AndroidManifest.xml
